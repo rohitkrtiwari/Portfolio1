@@ -21,7 +21,7 @@ repository               : "rohitkrtiwari/Portfolio1"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "r8.jpg"
   name             : "Rohit Tiwari"
   pronouns         : # example: "she/her"  
   bio              : "M.Tech CSE at IIT Jammu."
